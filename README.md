@@ -1,5 +1,5 @@
 # Modelo Entidade-Relacionamento
-###  Modelo Entidade-Relacionamento feito em cima de uma loja.
+###  Modelo Entidade-Relacionamento feito para uma loja.
 
 ----
 
