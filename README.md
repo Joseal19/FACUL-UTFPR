@@ -1,5 +1,5 @@
-# Modelo Entidade-Relacionamento
-###  Pasta destinada a materias da Faculdade
+# Pasta destinada a materias da Faculdade
+###  Universidade Tecnológica Federal do Paraná
 
 ----
 
