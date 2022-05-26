@@ -1,5 +1,5 @@
 # Modelo Entidade-Relacionamento
-###  Modelo Entidade-Relacionamento feito para uma loja.
+###  Pasta destinada a materias da Faculdade
 
 ----
 
