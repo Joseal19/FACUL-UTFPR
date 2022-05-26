@@ -6,5 +6,5 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Joseal19/FACUL-UTFPR/main/Loja-BD-1.jpeg">
+<img src="https://raw.githubusercontent.com/Joseal19/FACUL-UTFPR/main/Ciência-da-Computação.jpeg">
 </div>
