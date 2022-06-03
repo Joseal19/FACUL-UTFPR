@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T02:16:19.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oHBXIMeucpRvZWRLFqLZ" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T22:29:40.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="F2hicf4d9qhK39UL-4kF" version="19.0.0" type="github">
   <diagram id="Hc7lsqqkSUxHhg8s1E7W" name="Page-1">
-    <mxGraphModel dx="2249" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,11 +143,8 @@
         <mxCell id="PIWaCqFdl9PoiGD2TJqh-107" value="CAIXA" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBphBxY2XZtndYQNY2jK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="PIWaCqFdl9PoiGD2TJqh-112" target="PIWaCqFdl9PoiGD2TJqh-107" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PIWaCqFdl9PoiGD2TJqh-112" value="CNH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="570" y="370" width="40" height="20" as="geometry" />
+        <mxCell id="PIWaCqFdl9PoiGD2TJqh-112" value="ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="575" y="370" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PIWaCqFdl9PoiGD2TJqh-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="PIWaCqFdl9PoiGD2TJqh-113" target="PIWaCqFdl9PoiGD2TJqh-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -365,8 +362,8 @@
         <mxCell id="OBphBxY2XZtndYQNY2jK-105" value="CATEGORIA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="400" y="50" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OBphBxY2XZtndYQNY2jK-106" value="STATUS_ENTREGA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="578" y="330" width="130" height="20" as="geometry" />
+        <mxCell id="OBphBxY2XZtndYQNY2jK-106" value="NUMERO_CAIXA&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="589" y="330" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OBphBxY2XZtndYQNY2jK-107" value="&lt;font style=&quot;font-size: 9px&quot;&gt;DATA_CONTRATACAO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="805" y="330" width="110" height="20" as="geometry" />
