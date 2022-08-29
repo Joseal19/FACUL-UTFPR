@@ -2,7 +2,7 @@
 ###  Controle Acadêmico
 Deseja-se construir uma base de dados sobre alunos de uma universidade. Projetar um esquema
 conceitual da base de dados que possua condições de responder às seguintes questões:
-#### Dado o número do aluno, deseja-se saber:
+Dado o número do aluno, deseja-se saber:
 ##### em quais disciplinas está atualmente matriculado.
 ##### quais disciplinas já concluiu.
 ##### qual o curso deste aluno
